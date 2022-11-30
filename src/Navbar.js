@@ -8,7 +8,7 @@ function Navbar() {
       style={{ backgroundColor: "white", borderRadius: "10px" }}
       className="m-5"
     >
-      <h1>TodoList, Total tasks remained : {taskObj.taskItems.length} </h1>
+      <h1>TodoList App, Total tasks remained : {taskObj.taskItems.length} </h1>
     </div>
   );
 }
